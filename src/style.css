@@ -1,0 +1,17 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+.App {
+  text-align: center;
+}
+
+.container {
+  padding: 15px;
+}
+
+.list-container {
+  padding: 15px;
+  border: 2px solid gray;
+}
